@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{10466349-CA75-590F-BD25-BFD629535342}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ScoreCatcher.cs">
+    <Files>
+      <File FileName="Assets/Pusher.cs" Line="7" Column="35" />
+      <File FileName="Assets/SpawnCoins.cs" Line="22" Column="68" />
+      <File FileName="Assets/ScoreCatcher.cs" Line="18" Column="48" />
+      <File FileName="Assets/CoinStabilizer.cs" Line="7" Column="4" />
+      <File FileName="Assets/ClickToDropCoin.cs" Line="17" Column="100" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Drop The Coin" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="ScoreCatcher.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ef27919a-29d6-438d-95de-8ba21c30860c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
